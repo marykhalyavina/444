@@ -1,0 +1,13 @@
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\bin\Debug\Norbit.Crm.Khalyavina.ValidationLibrary.dll
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\bin\Debug\Norbit.Crm.Khalyavina.ValidationLibrary.pdb
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\obj\Debug\Norbit.Crm.Khalyavina.ValidationLibrary.csproj.AssemblyReference.cache
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\obj\Debug\Norbit.Crm.Khalyavina.ValidationLibrary.csproj.CoreCompileInputs.cache
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\obj\Debug\Norbit.Crm.Khalyavina.ValidationLibrary.dll
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\obj\Debug\Norbit.Crm.Khalyavina.ValidationLibrary.pdb
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\bin\Debug\Castle.Core.dll
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\bin\Debug\NSubstitute.dll
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\bin\Debug\Castle.Core.xml
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\bin\Debug\NSubstitute.xml
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Works\CareerGoal\Norbit.Crm.Khalyavina.TestingCareerGoal\Norbit.Crm.Khalyavina.ValidationLibrary\obj\Debug\Norbit.Crm.Khalyavina.ValidationLibrary.csproj.CopyComplete
